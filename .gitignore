@@ -1,0 +1,4 @@
+# give me .gitignore file for python project
+.venv
+__pycache__
+
